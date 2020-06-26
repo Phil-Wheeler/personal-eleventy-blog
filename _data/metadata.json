@@ -1,15 +1,15 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
+  "title": "Phil Wheeler",
+  "url": "https://wheeler.kiwi.nz/",
   "description": "I am writing about my experiences as a naval navel-gazer.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Coding and abetting",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "id": "https://wheeler.kiwi.nz/"
   },
   "author": {
-    "name": "Your Name Here",
+    "name": "Phil Wheeler",
     "email": "youremailaddress@example.com"
   }
 }
