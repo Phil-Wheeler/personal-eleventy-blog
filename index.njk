@@ -5,6 +5,19 @@ eleventyNavigation:
   order: 1
 ---
 
+
+    <div class="title-box">
+        <h1>{{ metadata.title }}</h1>
+        <p class="h4">Technology, leadership, education</p>
+    </div>
+    <div id="image" class="home-image">
+        <div class="skew"></div>
+        <div class="overlay"></div>
+        <div class="bg-image"></div>
+    </div>
+    <img src="@Model.Cover" />
+
+<!--
 <h1>Latest 3 Posts</h1>
 
 {% set postslist = collections.posts | head(-3) %}
@@ -12,3 +25,4 @@ eleventyNavigation:
 {% include "postslist.njk" %}
 
 <p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
+-->
