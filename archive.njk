@@ -1,12 +1,20 @@
 ---
 layout: layouts/home.njk
 permalink: /posts/
+templateClass: tmpl-post-list
 eleventyNavigation:
   key: Blog
   order: 2
 ---
 
-<h1>Blog</h1>
+<article>
+  <header>
+    <h1>Blog</h1>
+  </header>
 
-{% set postslist = collections.posts %}
-{% include "postslist.njk" %}
+  <div class="article-content">
+    {% set postslist = collections.posts %}
+    {% include "postslist.njk" %}
+  </div>
+
+</article>
