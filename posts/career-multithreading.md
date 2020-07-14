@@ -1,6 +1,6 @@
 ---
 title: Career Multithreading
-description: This is a post on My Blog about touchpoints and circling wagons.
+description: Suggesting a move toward people leadership or management can draw a pretty strong reaction from developers.
 date: 2018-09-30
 tags: 
     - management
@@ -8,9 +8,10 @@ tags:
     - development
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+I remember in my last role as a development team lead I would regularly hear people say "Wow, I could never 
+do your job! It's just constant stress and interruptions!". 
+
 
 ## Section Header
 
