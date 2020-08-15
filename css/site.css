@@ -5,7 +5,7 @@ body { margin: 0; padding: 0; }
 h1, .h1 { font: 400 4rem/1.6 'Playfair Display', serif; }
 h4, .h4 { font: 200 1.6rem/1.3 'Raleway', sans-serif; }
 
-p, li, a, blockquote, cite, input { font: 300 1.1rem/1.3 'Raleway', sans-serif; }
+p, li, a, blockquote, cite, input { font: 400 0.9rem/1.3 'Raleway', sans-serif; }
 
 
 .navbar { font-family: 'Raleway'; font-weight: 400; }
@@ -51,6 +51,7 @@ li.active-nav { border-bottom: 1px solid hsl(40.8, 38%, 50%); }
 .title-box h1, .title-box .h4 { margin: 0; }
 .front-image { box-shadow: -0.4rem -0.2rem 0.5rem hsla(0, 0%, 20%, 0.5);
     border-radius: 3px; margin-left: 2rem; width: 40%; z-index: 1; }
+.profile-image { border: 1px solid hsl(0, 0%, 80%); border-radius: 2px; float: left; margin: 0 2rem 2rem 0; padding: 0.2rem; width: 25%; }
 
 .home-image { position: absolute;
     height: 100vh;
@@ -70,10 +71,13 @@ li.active-nav { border-bottom: 1px solid hsl(40.8, 38%, 50%); }
     background-size: 150%;
     background-position: -80px; }
 
+time { float: right; font-size: 0.9rem; padding-top: 0.8rem; }
+
 
 /* COLOUR */
 
 h1, .h1 { color: hsl(0, 0%, 30%); }
+p, li, a, blockquote, cite, input { color: hsl(0, 0%, 40%); }
 
 a, a:active, a:visited, .navbar, ::marker { color: hsl(40.8, 38%, 50%); text-decoration: none; }
 .navbar li { box-shadow: 2px 4px 3px #eee; color: hsl(0, 0%, 20%); }
