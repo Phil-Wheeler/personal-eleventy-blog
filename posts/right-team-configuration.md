@@ -31,4 +31,10 @@ Remember, in Conway's Law (above), there is a clear trend in any organisation to
 
 A respected colleague of mine pointed me towards the idea of "[Team Topologies](https://teamtopologies.com)". The essence of that idea is building software that fits in the teams' heads. The amount of mental effort required to visualise the whole component (or feature, or workflow) should be discrete and manageable. If you work on features that disappear into other teams before emerging again before being pushed to production months later, building a team around a specific software function might seem easy, but will cause bigger problems later as people try to understand complexity in systems, communication and responsibility.
 
-Taking socio-technical approaches to building software allows the business to create solutions that leverage the human contributions in the most optimal, effective way. A 
+Taking socio-technical approaches to building software allows the business to create solutions that leverage the human contributions in the most effective way. In my case, I needed a way to ensure my teams were able to build features that corresponded to the highest customer value, but I also needed discovery around the technical health of our product, the strategic future of our market (and the technical response to that), and the optimisation of the product's performance as we scaled. 
+
+Breaking my teams into subgroups who were accountable for those business outcomes made more sense than splitting based solely on technical function or product areas. People who were previously exclusive to operations work now find developers and architects included in their group. Development groups have the remit to do whatever best facilitates the flow of change. The workgroups have a range of skills so that a given project can be picked up and delivered by that team alone. 
+
+## Conclusion
+
+I'm not the first person to be presented with this problem. I absolutely will not be the last. Trying to envisage how to create the right conditions for your people to do their best work is sometimes not easy or clear through the lens of your own business context, but I've found that looking at the _business outcomes_ being supported helps inform the sorts of people I want to focus in a particular direction; especially when one of the forces acting on my teams is growth.
