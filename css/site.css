@@ -58,11 +58,11 @@ li.active-nav { border-bottom: 1px solid hsl(40.8, 38%, 50%); }
     right: 0;
     top: 0px;
     width: 50%; }
-.skew { transform: skew(-15deg);
+.skew { transform: skew(-12deg);
     height: 100vh;
-    width: 55%;
+    width: 65%;
     position: absolute;
-    left: -100px;
+    left: -150px;
     background-color: #fff;
     z-index: 1; }
 .overlay { background-color: #b0914fe6; position: absolute; height: 100%; width: 100%; }
