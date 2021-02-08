@@ -1,7 +1,7 @@
 ---
 title: The Right Team Configuration
 description: What does the right software structure look like? How do I know if I've got it right?
-date: 2020-09-17
+date: 2021-02-09
 tags:
   - software
   - business
